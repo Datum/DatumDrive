@@ -1,6 +1,6 @@
 # Datum-Drive
 
-WARNING: This is an alpha release, do not store files on Datum Drive that you are not prepared to loose!
+**WARNING**: This is an alpha release, do not store files on Datum Drive that you are not prepared to loose!
 
 Creates a filesystem backed by Datum Cloud Network
 
