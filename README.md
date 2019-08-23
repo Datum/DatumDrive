@@ -10,11 +10,11 @@ Core components in .NET Core and .NET Standard. Sample UI for Windows.
 
 Application Settings Folder
 
-`C:\Users\[Username]\AppData\Local\Datum_Network_GmbH`
+`C:\Users\[Username]\AppData\Local\Datum`
 
 File Cache and Index database Folder
 
-`C:\Users\[Username]\Documents\DatumDrive`
+`C:\Users\[Username]\AppData\Roaming\Datum`
 
 
 ### Index Database
