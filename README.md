@@ -19,4 +19,4 @@ File Cache and Index database Folder
 
 ### Index Database
 
-Sqlite
+Datum Cloud
