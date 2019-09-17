@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 
 
-## [0.2.0] - 2019-09-11
+## [0.2.0] - 2019-09-17
 ### Changed
 - Update account creation / recovery workflow
 - Move index handling to datum cloud
